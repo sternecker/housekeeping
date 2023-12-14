@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=Discord
-Icon=/home/geoffsternecker/Discord/Discord.png
+Icon=/home/geoffsternecker/Discord/discord.png
 Exec=/home/geoffsternecker/Discord/Discord
 Terminal=false
 Hidden=false
