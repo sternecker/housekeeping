@@ -1,2 +1,3 @@
-# housekeeping
-scripts and config files
+# Housekeeping
+
+Personal scripts, config files, and other things.
