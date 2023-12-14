@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Discord
+Icon=/home/geoffsternecker/Discord/Discord.png
+Exec=/home/geoffsternecker/Discord/Discord
+Terminal=false
+Hidden=false
+Categories=Network;InstantMessaging;
