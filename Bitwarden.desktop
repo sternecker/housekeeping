@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Bitwarden
+Icon=/home/geoffsternecker/bitwarden.png
+Exec=/home/geoffsternecker/Bitwarden-2023.12.0-x86_64.AppImage
+Terminal=false
+Hidden=false
+Categories=Utility
