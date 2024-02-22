@@ -1,3 +1,3 @@
-#/bin/env bash
+#!/bin/env bash
 
-cp *.desktop ~/.local/share/applications/
+cp ./*.desktop ~/.local/share/applications/
