@@ -7,6 +7,7 @@ then
 else
 	echo "alias vim=\"nvim\"" | tee -a ~/.bashrc
 	echo "alias code=\"codium\"" | tee -a ~/.bashrc
+	echo "alias firefox=\"librewolf\"" | tee -a ~/.bashrc
 	echo "export FCEDIT=\"nvim\"" | tee -a ~/.bashrc
 	source ~/.bashrc
 fi
